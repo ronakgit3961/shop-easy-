@@ -2,11 +2,11 @@ import React from "react";
 
 function App() {
   const products = [
-    {
-      category: "Electronics",
-      name: "Product 1",
-      price: "$10",
-    },
+    // {
+    //   category: "Electronics",
+    //   name: "Product 1",
+    //   price: "$10",
+    // },
     {
       category: "Home",
       name: "Product 2",
